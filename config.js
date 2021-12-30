@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho HR <3',
     reply: 'Tại vì có cậu ở đó hihi <33333333',
     mess: 'Tớ biết mà 🥰. Love you 300.000 😘😘',
-    messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho HR đi nào.',
+    messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho mình đi nào.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.nguoc.org/profile/9aa9a46d-9861-40f8-8bf6-7a5dcdc9c950/profile' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/thang.nguyenphuc.9237' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
