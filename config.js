@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Tớ biết mà 🥰. Love you 300.000 😘😘',
     messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho HR đi nào.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://chat.zalo.me/?g=aksspv691' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.nguoc.org/profile/9aa9a46d-9861-40f8-8bf6-7a5dcdc9c950/profile' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
