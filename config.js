@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'nè',
     reply: 'Tao sẽ bao nuôi m tới già',
     mess: 'hehe, tao biết mà',
-    messDesc: 'còn giờ thì chờ gì nữa mà không lên kế hoạch đi đu idol nào',
+    messDesc: 'HAPPY BIRTHDAY!!! Chúc m sẽ sớm kiếm được nhiều tiền để bao nuôi con bạn này nhaaa',
     btnAccept: 'Okiiiii lun',
     messLink: 'https://www.facebook.com/profile.php?id=100010163237798' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
